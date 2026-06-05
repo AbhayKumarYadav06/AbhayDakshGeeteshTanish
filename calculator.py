@@ -13,3 +13,5 @@ def divide(a, b):
         return 0
     else:
         return a / b
+def subtract(a, b):
+    return a - b
