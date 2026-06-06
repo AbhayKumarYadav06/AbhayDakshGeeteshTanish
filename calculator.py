@@ -86,3 +86,5 @@ elif choice == 7:
 
 else:
     print("Invalid Choice")
+def multiply(a, b):
+    return a * b
