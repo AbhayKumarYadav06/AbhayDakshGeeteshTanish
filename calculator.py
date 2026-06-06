@@ -4,24 +4,12 @@ print("this is only for git practice of branching and PR request.")
 def add(a,b):
     return a+b
 
-def floor(a):
-    return floor(a)
-
 def divide(a, b):
     if(b == 0):
         print("Error!")
         return 0
     else:
         return a / b
-    
-
-
-
-# ========================
-# BASIC OPERATIONS
-# ========================
-
-
 
 def subtract(a, b):
     return a - b
@@ -46,9 +34,6 @@ def floor_div(a, b):
     return a // b
 
 
-# ========================
-# MENU
-# ========================
 
 print("\n1. Addition")
 print("2. Subtraction")
